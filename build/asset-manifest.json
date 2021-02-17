@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06cbedad.chunk.css",
+    "main.js": "/static/js/main.df1be667.chunk.js",
+    "main.js.map": "/static/js/main.df1be667.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2e9b820.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2e9b820.js.map",
+    "static/js/2.660c65b5.chunk.js": "/static/js/2.660c65b5.chunk.js",
+    "static/js/2.660c65b5.chunk.js.map": "/static/js/2.660c65b5.chunk.js.map",
+    "static/js/3.37309b17.chunk.js": "/static/js/3.37309b17.chunk.js",
+    "static/js/3.37309b17.chunk.js.map": "/static/js/3.37309b17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.06cbedad.chunk.css.map": "/static/css/main.06cbedad.chunk.css.map",
+    "static/js/2.660c65b5.chunk.js.LICENSE.txt": "/static/js/2.660c65b5.chunk.js.LICENSE.txt",
+    "static/media/bose.4cb79dfd.png": "/static/media/bose.4cb79dfd.png",
+    "static/media/btlogo2.cd22429c.png": "/static/media/btlogo2.cd22429c.png",
+    "static/media/fox.d81499da.png": "/static/media/fox.d81499da.png",
+    "static/media/App.css": "/static/media/laptop.61fd8b97.jpg",
+    "static/media/sea.7e73a109.png": "/static/media/sea.7e73a109.png",
+    "static/media/teslapage.6b2eebbf.png": "/static/media/teslapage.6b2eebbf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e9b820.js",
+    "static/js/2.660c65b5.chunk.js",
+    "static/css/main.06cbedad.chunk.css",
+    "static/js/main.df1be667.chunk.js"
+  ]
+}
